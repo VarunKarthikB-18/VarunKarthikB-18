@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi there, I'm **B. Varun Karthik**
+### 🚀 Developer • ML Enthusiast • iOS Native App Developer
 
-<!--
-**VarunKarthikB-18/VarunKarthikB-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer exploring the intersection of **Machine Learning**, **iOS native development**, and **full-stack engineering**. I enjoy building meaningful projects, solving real-world problems, and continuously learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Currently Learning
+- 📘 **Machine Learning & Applied AI**
+- 🍏 **iOS Native Application Development (Swift, SwiftUI)**
+
+---
+
+## 🔭 What I'm Working On
+- Building end-to-end **ML projects** and research-based applications  
+- Developing **iOS apps** with clean architecture and modern UI  
+- Expanding my portfolio with **real-world problem-solving projects**
+
+---
+
+## 🤝 Looking to Collaborate On
+- Machine Learning projects  
+- iOS app development  
+- Full-stack application ideas  
+- Open-source contributions  
