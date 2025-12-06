@@ -7,7 +7,7 @@ I'm a passionate developer exploring the intersection of **Machine Learning**, *
 
 ## 🌱 What I'm Currently Learning
 - 📘 **Machine Learning & Applied AI**
-- 🍏 **iOS Native Application Development (Swift, SwiftUI)**
+- 🍏 **iOS Native Application Development (Swift, Storyboard, SwiftUI)**
 
 ---
 
