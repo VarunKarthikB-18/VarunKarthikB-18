@@ -22,4 +22,4 @@ I'm a passionate developer exploring the intersection of **Machine Learning**, *
 - Machine Learning projects  
 - iOS app development  
 - Full-stack application ideas  
-- Open-source contributions  
+- Open-source contributions
