@@ -3,9 +3,7 @@
   "bio": "I am a fullstack developer",
   "aboutTitle": "About me",
   "aboutText": [
-    "I am currently pursuing B Tech 3rd year ",
-    "At SRMIST KTR",
-    "I develop for products"
+    "[\"I am currently pursuing B Tech 3rd year \",\"At SRMIST KTR\",\"I develop for products\"]"
   ],
   "contactTitle": "Contact Me",
   "contactBio": "You can reach me out for collab",
