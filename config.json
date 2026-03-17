@@ -3,9 +3,13 @@
   "bio": "I am a fullstack developer",
   "aboutTitle": "About me",
   "aboutText": [
-    "[\"I am currently pursuing B Tech 3rd year \",\"At SRMIST KTR\",\"I develop for products\"]"
+    "Passionate developer skilled in building scalable web and mobile applications with clean, efficient code",
+    "Focused on creating user-friendly experiences using modern technologies and best practices",
+    "Continuously learning and exploring AI, machine learning, and full-stack development"
   ],
   "contactTitle": "Contact Me",
   "contactBio": "You can reach me out for collab",
-  "username": "VarunKarthikB-18"
+  "username": "VarunKarthikB-18",
+  "domain": "VarunKarthikB-18.github.io/VarunKarthikB-18",
+  "url": "https://VarunKarthikB-18.github.io/VarunKarthikB-18"
 }
