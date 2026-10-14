@@ -1,9 +1,9 @@
 
 # Hi, I'm B. Varun Karthik 👋
 
-### Computer Science Undergraduate | Software Developer | Research Enthusiast
+### 💻 Computer Science Undergraduate | Software Developer | Research Enthusiast
 
-I'm pursuing a **B.Tech in Computer Science and Engineering at SRMIST, Chennai**, with interests in software engineering, applied AI, and research-driven development. I enjoy building real-world applications, engineering backend systems, and exploring innovative solutions to computational problems.
+I'm pursuing a **B.Tech in Computer Science and Engineering at SRMIST, Chennai**, alongside a **BS in Data Science and Applications from IIT Madras**. I'm interested in software engineering, applied AI, and research-driven development, with a focus on building practical applications and reliable software systems.
 
 ### 🔬 Interests
 - Software Engineering & Core Computer Science
@@ -15,9 +15,9 @@ I'm pursuing a **B.Tech in Computer Science and Engineering at SRMIST, Chennai**
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,swift,sql)
+![Languages](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,swift)
 
-**Web, Backend & Mobile**
+**Web, Backend & Mobile Development**
 
 ![Development](https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,html,css,supabase)
 
@@ -25,11 +25,11 @@ I'm pursuing a **B.Tech in Computer Science and Engineering at SRMIST, Chennai**
 
 ![ML Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)
 
-`NumPy` · `Pandas` · `Matplotlib` · `CNN` · `YOLO` · `TCN`
+`NumPy` · `Pandas` · `Matplotlib` · `SciPy` · `CNN` · `YOLO` · `TCN`
 
 **Databases & Tools**
 
-![Tools](https://skillicons.dev/icons?i=postgres,mysql,git,github,docker,aws)
+![Databases & Tools](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,github,docker,aws)
 
 `GitHub Actions` · `Postman` · `Xcode` · `Jupyter Notebook` · `Google Colab`
 
@@ -37,7 +37,7 @@ I'm pursuing a **B.Tech in Computer Science and Engineering at SRMIST, Chennai**
 
 **1. [UTSAV — Multi-Platform Event Management System](https://utsav-web-zeta.vercel.app/)**
 
-Event planning platform with separate Planner and Vendor apps, unified backend services, real-time synchronization, and booking workflows.
+Event management platform connecting planners and vendors through mobile applications, a web platform, and unified backend services.
 
 - [Planner — iOS](https://apps.apple.com/us/app/utsaveventplanner/id6759706059) · [Vendor — iOS](https://apps.apple.com/in/app/utsavvendor/id6759786273)
 - [Planner — Android](https://play.google.com/store/apps/details?id=com.utsavplanner.app) · [Vendor — Android](https://play.google.com/store/apps/details?id=com.utsav.vendor)
@@ -45,7 +45,7 @@ Event planning platform with separate Planner and Vendor apps, unified backend s
 
 **2. [B2B SaaS Integration Engine](https://github.com/VarunKarthikB-18/Automated-SaaS-B2B-Integration-Engine)**
 
-Built a FastAPI-based integration pipeline with intelligent schema mapping, AI-assisted field matching, PostgreSQL, and Docker.
+Engineered an integration pipeline with intelligent schema mapping, AI-assisted field matching, data validation, and automated processing.
 
 `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker`
 
@@ -53,21 +53,26 @@ Built a FastAPI-based integration pipeline with intelligent schema mapping, AI-a
 
 Full-stack club management platform featuring role-based access control, concurrency-safe bookings, AI integration, payment processing, and automated testing.
 
-`Flask` · `Vue 3` · `PostgreSQL` · `Pytest`
+`Python` · `Flask` · `Vue 3` · `PostgreSQL` · `Pytest`
 
 **4. [Real-Time Pothole Detection](https://github.com/VarunKarthikB-18/Road_Pothole_Detection_And_Reporting_System)**
 
 Developed a time-series ML approach for pothole detection, achieving **96.7% accuracy** with edge deployment on ESP32.
 
-- 📄 [Read the IEEE Xplore Research Paper](https://ieeexplore.ieee.org/document/11504540)
+📄 [Read the IEEE Xplore Research Paper](https://ieeexplore.ieee.org/document/11504540)
 
-`Python` · `Machine Learning` · `TCN-AM` · `SVM` · `ESP32`
+`Python` · `TCN-AM` · `SVM` · `ESP32` · `Edge ML`
 
 **5. [Cinema Audience Forecasting](https://github.com/VarunKarthikB-18/Cinema-Audience-Forecasting-challenge)**
 
-Developed a regression pipeline using multi-source booking data and feature engineering to forecast cinema attendance, achieving approximately **0.85 R²**.
+Built a regression pipeline using multi-source booking data and feature engineering to forecast cinema attendance, achieving approximately **0.85 R²**.
 
 `Python` · `Pandas` · `NumPy` · `scikit-learn` · `Extra Trees Regressor`
+
+### 🎓 Education
+
+- **SRM Institute of Science and Technology, Chennai** — B.Tech in Computer Science and Engineering
+- **Indian Institute of Technology Madras** — BS in Data Science and Applications
 
 ### 🤝 Let's Connect
 
