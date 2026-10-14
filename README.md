@@ -1,84 +1,78 @@
 
-# Hi, I'm B. Varun Karthik 👋
+<div align="center">
 
-### 💻 Computer Science Undergraduate | Software Developer | Research Enthusiast
+# 👋 Hi, I'm B. Varun Karthik
 
-I'm pursuing a **B.Tech in Computer Science and Engineering at SRMIST, Chennai**, alongside a **BS in Data Science and Applications from IIT Madras**. I'm interested in software engineering, applied AI, and research-driven development, with a focus on building practical applications and reliable software systems.
+### Computer Science Undergraduate · Software Developer · Research Enthusiast
 
-### 🔬 Interests
-- Software Engineering & Core Computer Science
-- Machine Learning, Computer Vision & Applied AI
-- Backend Systems & Full-Stack Development
-- Native iOS Development & Research
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/bvarunkarthik05/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bvarunkarthik05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/VarunKarthikB-18)
 
-### 🛠️ Tech Stack
+</div>
+
+---
+
+✨ I'm pursuing a **B.Tech in Computer Science and Engineering at SRMIST, Chennai**, alongside a **BS in Data Science and Applications at IIT Madras**. I enjoy building real-world software, engineering backend systems, and exploring machine learning and research-driven solutions.
+
+### 🛠️ TECH STACK
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,swift)
+![Languages](https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,swift,sql)
 
-**Web, Backend & Mobile Development**
+**Development**
 
 ![Development](https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,html,css,supabase)
 
 **Machine Learning & Data Science**
 
-![ML Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)
+![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn)
 
 `NumPy` · `Pandas` · `Matplotlib` · `SciPy` · `CNN` · `YOLO` · `TCN`
 
 **Databases & Tools**
 
-![Databases & Tools](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,github,docker,aws)
+![Tools](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,github,docker,aws)
 
 `GitHub Actions` · `Postman` · `Xcode` · `Jupyter Notebook` · `Google Colab`
 
-### 🚀 Featured Projects
+---
 
-**1. [UTSAV — Multi-Platform Event Management System](https://utsav-web-zeta.vercel.app/)**
+### 🚀 FEATURED PROJECTS
 
-Event management platform connecting planners and vendors through mobile applications, a web platform, and unified backend services.
+- 📱 **[UTSAV — Multi-Platform Event Management System](https://utsav-web-zeta.vercel.app/)**  
+  Event planning platform connecting planners and vendors through mobile apps, web, and unified backend services.  
+  **Apps:** [Planner iOS](https://apps.apple.com/us/app/utsaveventplanner/id6759706059) · [Vendor iOS](https://apps.apple.com/in/app/utsavvendor/id6759786273) · [Planner Android](https://play.google.com/store/apps/details?id=com.utsavplanner.app) · [Vendor Android](https://play.google.com/store/apps/details?id=com.utsav.vendor) · [Website](https://utsav-web-zeta.vercel.app/)
 
-- [Planner — iOS](https://apps.apple.com/us/app/utsaveventplanner/id6759706059) · [Vendor — iOS](https://apps.apple.com/in/app/utsavvendor/id6759786273)
-- [Planner — Android](https://play.google.com/store/apps/details?id=com.utsavplanner.app) · [Vendor — Android](https://play.google.com/store/apps/details?id=com.utsav.vendor)
-- [Website](https://utsav-web-zeta.vercel.app/)
+- ⚙️ **[B2B SaaS Integration Engine](https://github.com/VarunKarthikB-18/Automated-SaaS-B2B-Integration-Engine)**  
+  Intelligent SaaS data integration with schema mapping, AI-assisted field matching, validation, and automated processing.  
+  `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker`
 
-**2. [B2B SaaS Integration Engine](https://github.com/VarunKarthikB-18/Automated-SaaS-B2B-Integration-Engine)**
+- 🏗️ **[ClubDash](https://github.com/jayesh-bansal/MAY2026-Team-096)**  
+  Club management platform featuring role-based access, concurrency-safe bookings, AI integration, payments, and automated testing.  
+  `Flask` · `Vue 3` · `PostgreSQL` · `Pytest`
 
-Engineered an integration pipeline with intelligent schema mapping, AI-assisted field matching, data validation, and automated processing.
+- 🔬 **[Real-Time Pothole Detection](https://github.com/VarunKarthikB-18/Road_Pothole_Detection_And_Reporting_System)**  
+  Time-series machine learning for pothole detection, achieving 96.7% accuracy with edge deployment on ESP32.  
+  📄 [IEEE Xplore Research Paper](https://ieeexplore.ieee.org/document/11504540)  
+  `Python` · `TCN-AM` · `SVM` · `ESP32`
 
-`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker`
-
-**3. [ClubDash](https://github.com/jayesh-bansal/MAY2026-Team-096)**
-
-Full-stack club management platform featuring role-based access control, concurrency-safe bookings, AI integration, payment processing, and automated testing.
-
-`Python` · `Flask` · `Vue 3` · `PostgreSQL` · `Pytest`
-
-**4. [Real-Time Pothole Detection](https://github.com/VarunKarthikB-18/Road_Pothole_Detection_And_Reporting_System)**
-
-Developed a time-series ML approach for pothole detection, achieving **96.7% accuracy** with edge deployment on ESP32.
-
-📄 [Read the IEEE Xplore Research Paper](https://ieeexplore.ieee.org/document/11504540)
-
-`Python` · `TCN-AM` · `SVM` · `ESP32` · `Edge ML`
-
-**5. [Cinema Audience Forecasting](https://github.com/VarunKarthikB-18/Cinema-Audience-Forecasting-challenge)**
-
-Built a regression pipeline using multi-source booking data and feature engineering to forecast cinema attendance, achieving approximately **0.85 R²**.
-
-`Python` · `Pandas` · `NumPy` · `scikit-learn` · `Extra Trees Regressor`
-
-### 🎓 Education
-
-- **SRM Institute of Science and Technology, Chennai** — B.Tech in Computer Science and Engineering
-- **Indian Institute of Technology Madras** — BS in Data Science and Applications
-
-### 🤝 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VarunKarthikB-18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvarunkarthik05/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bvarunkarthik05@gmail.com)
+- 🎬 **[Cinema Audience Forecasting](https://github.com/VarunKarthikB-18/Cinema-Audience-Forecasting-challenge)**  
+  Regression pipeline for cinema attendance forecasting using multi-source data and feature engineering, achieving approximately 0.85 R².  
+  `Python` · `Pandas` · `NumPy` · `scikit-learn`
 
 ---
-*Building, researching, and learning — one project at a time.*
+
+### 🎓 EDUCATION
+
+- **SRM Institute of Science and Technology, Chennai** — B.Tech, Computer Science and Engineering
+- **Indian Institute of Technology Madras** — BS, Data Science and Applications
+
+---
+
+<div align="center">
+
+💡 *Building, researching, and learning — one project at a time.*
+
+</div>
